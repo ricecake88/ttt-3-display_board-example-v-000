@@ -8,4 +8,5 @@ def display_board
   print output
 end
 
+puts "A Tic Tac Toe Board"
 display_board
