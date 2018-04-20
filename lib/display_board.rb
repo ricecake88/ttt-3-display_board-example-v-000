@@ -9,3 +9,5 @@ def display_board
   print line2
   print line1
 end
+
+display_board
