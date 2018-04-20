@@ -3,8 +3,9 @@ def display_board
   print "A Tic Tac Toe Board\n"
   line1 = "   |   |   \n"
   line1 += "-----------\n"
-  line1 = "   |   |   \n"
-  line1 = "   |   |   \n"  
+  line1 += "   |   |   \n"
+  line1 += "-----------\n"  
+  line1 += "   |   |   \n"  
   
 end
 
