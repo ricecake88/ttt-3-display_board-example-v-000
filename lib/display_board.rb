@@ -8,5 +8,4 @@ def display_board
   print line1
   print line2
   print line1
-  print line2
 end
