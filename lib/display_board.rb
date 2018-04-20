@@ -6,10 +6,7 @@ def display_board
   line1 += "   |   |   \n"
   line1 += "-----------\n"  
   line1 += "   |   |   \n"
-  line1 += "-----------\n"  
-  line1 += "   |   |   \n"  
   print line1
-  print "\n"
   
 end
 
